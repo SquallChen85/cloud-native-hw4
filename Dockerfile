@@ -1,2 +1,2 @@
-FROM alpine
-CMD echo Hello 2025cloud
+FROX alpine
+CMD ["echo", "This should fail"]
